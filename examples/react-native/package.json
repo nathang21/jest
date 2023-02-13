@@ -15,7 +15,7 @@
     "@babel/preset-env": "*",
     "babel-jest": "*",
     "jest": "*",
-    "metro-react-native-babel-preset": "^0.58.0",
+    "metro-react-native-babel-preset": "^0.74.1",
     "react-test-renderer": "16.11.0"
   }
 }

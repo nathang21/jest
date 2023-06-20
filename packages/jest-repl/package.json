@@ -10,10 +10,10 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@jest/transform": "^26.0.0-alpha.0",
+    "@jest/transform": "^27.0.0",
     "@jest/types": "^26.0.0-alpha.0",
-    "jest-config": "^26.0.0-alpha.0",
-    "jest-runtime": "^26.0.0-alpha.0",
+    "jest-config": "^27.0.0",
+    "jest-runtime": "^27.0.0",
     "jest-validate": "^26.0.0-alpha.0",
     "repl": "^0.1.3",
     "yargs": "^15.3.1"

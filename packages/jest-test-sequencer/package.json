@@ -14,7 +14,7 @@
     "graceful-fs": "^4.2.4",
     "jest-haste-map": "^26.0.0-alpha.0",
     "jest-runner": "^26.0.0-alpha.0",
-    "jest-runtime": "^26.0.0-alpha.0"
+    "jest-runtime": "^27.0.0"
   },
   "devDependencies": {
     "@types/graceful-fs": "^4.1.3"

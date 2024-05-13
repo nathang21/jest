@@ -16,10 +16,10 @@
     "fb-watchman": "^2.0.0",
     "graceful-fs": "^4.2.4",
     "jest-serializer": "^26.0.0-alpha.0",
-    "jest-util": "^26.0.0-alpha.0",
+    "jest-util": "^27.0.1",
     "jest-worker": "^26.0.0-alpha.0",
     "micromatch": "^4.0.2",
-    "sane": "^4.0.3",
+    "sane": "^5.0.1",
     "walker": "^1.0.7",
     "which": "^2.0.2"
   },

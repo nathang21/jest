@@ -5,11 +5,11 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@jest/test-result": "^26.0.0-alpha.0",
+    "@jest/test-result": "^27.0.0",
     "@jest/types": "^26.0.0-alpha.0",
     "ansi-escapes": "^4.2.1",
     "chalk": "^4.0.0",
-    "jest-util": "^26.0.0-alpha.0",
+    "jest-util": "^27.0.1",
     "string-length": "^4.0.1"
   },
   "devDependencies": {

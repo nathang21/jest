@@ -10,11 +10,11 @@
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "dependencies": {
-    "@jest/test-result": "^26.0.0-alpha.0",
+    "@jest/test-result": "^27.0.0",
     "graceful-fs": "^4.2.4",
-    "jest-haste-map": "^26.0.0-alpha.0",
-    "jest-runner": "^26.0.0-alpha.0",
-    "jest-runtime": "^26.0.0-alpha.0"
+    "jest-haste-map": "^27.0.0",
+    "jest-runner": "^29.0.0",
+    "jest-runtime": "^29.0.0"
   },
   "devDependencies": {
     "@types/graceful-fs": "^4.1.3"

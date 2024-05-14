@@ -21,7 +21,7 @@
     "@jest/types": "^26.0.0-alpha.0",
     "chalk": "^4.0.0",
     "jest-get-type": "^26.0.0-alpha.0",
-    "jest-util": "^26.0.0-alpha.0",
+    "jest-util": "^27.0.1",
     "pretty-format": "^26.0.0-alpha.0"
   },
   "engines": {

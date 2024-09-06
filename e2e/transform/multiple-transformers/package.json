@@ -8,9 +8,9 @@
     "testEnvironment": "node"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.22.6",
+    "@babel/preset-react": "^7.12.13",
     "react": "*",
     "react-dom": "*",
     "react-test-renderer": "*"

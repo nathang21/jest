@@ -34,7 +34,7 @@
     "strip-ansi": "^6.0.0"
   },
   "devDependencies": {
-    "@jest/test-sequencer": "^26.0.0-alpha.0",
+    "@jest/test-sequencer": "^27.0.2",
     "@types/exit": "^0.1.30",
     "@types/graceful-fs": "^4.1.2",
     "@types/micromatch": "^4.0.0",

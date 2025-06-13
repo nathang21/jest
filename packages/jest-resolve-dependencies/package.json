@@ -17,7 +17,7 @@
   "devDependencies": {
     "jest-haste-map": "^26.0.0-alpha.0",
     "jest-resolve": "^26.0.0-alpha.0",
-    "jest-runtime": "^26.0.0-alpha.0"
+    "jest-runtime": "^30.0.0"
   },
   "engines": {
     "node": ">= 10.14.2"

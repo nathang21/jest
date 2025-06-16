@@ -21,7 +21,7 @@
     "jest-environment-jsdom": "^26.0.0-alpha.0",
     "jest-environment-node": "^26.0.0-alpha.0",
     "jest-get-type": "^26.0.0-alpha.0",
-    "jest-jasmine2": "^26.0.0-alpha.0",
+    "jest-jasmine2": "^30.0.0",
     "jest-regex-util": "^26.0.0-alpha.0",
     "jest-resolve": "^26.0.0-alpha.0",
     "jest-util": "^26.0.0-alpha.0",
